@@ -9,7 +9,7 @@ class Instagram extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Netflix',
+      title: 'Instagram',
       darkTheme: ThemeData.dark(),
       theme: ThemeData(),
       home: Home(),
